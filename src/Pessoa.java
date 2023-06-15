@@ -2,7 +2,10 @@ public class Pessoa
 {
     //Atributos
     String nome;
-    Long cpf;
+    String cpf;
+    String rg;
+    String tel;
+    String telEmergencia;
 
 
     //Métodos
