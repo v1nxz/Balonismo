@@ -6,6 +6,12 @@ public class Pessoa
     String rg;
     String tel;
     String telEmergencia;
+    String rua;
+    String bairro;
+    String cidade;
+    String estado;
+    boolean termoCienciaRisco;
+
 
 
     //Métodos
